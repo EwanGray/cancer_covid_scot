@@ -17,7 +17,7 @@ resuling from Covid-19 disruption to serivces leading to delays in diagnosis & t
 
 The model adaptations include:
 1. Scotland incidence and survival data as inputs
-2.TTI HR can be applied additionally to staging changes as an option.
+2. TTI HR can be applied additionally to staging changes as an option.
 3. Seperation and recombination of results from sub-groups such as screen-detected and symptomatic in breast cancer.
 4. Selection of exponential rather than Gompertz as default option for projection of survival.
 5. Stage-shift from I to III/IV and II to III/IV are included. Shift to III and IV occur in proportion to the initial distribution
